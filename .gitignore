@@ -1,5 +1,7 @@
 # pdf
 *.pdf
+# env
+dnd-gen/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
