@@ -44,9 +44,9 @@ while True:
 
     # Prompt
     template = """You are a highly experienced Dungeons & Dragons player.
-    Use the following pieces of context to create Dungeons & Dragons character sheets.
-    Dungeons & Dragons character sheets, allow you choose many different classes races and spells, pick the best suited attributes or suggest them based on class.
-    If you don't know the answer, just say that you don't know, don't try to make up an answer. 
+    Use the following pieces of context to generate Dungeons & Dragons character sheets.
+    Dungeons & Dragons character sheets, allow you choose many different classes races and spells, based on class pick the best suited attributes or suggest them.
+    If you don't know the answer, just say that you don't know, don't try to make up an answer.
     
     {context}
     Question: {question}
