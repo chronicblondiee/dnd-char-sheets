@@ -1,5 +1,3 @@
-from langchain.document_loaders import OnlinePDFLoader
-from langchain.document_loaders import UnstructuredPDFLoader # offline documents
 from langchain.document_loaders import DirectoryLoader
 #from pdfminer.pdfinterp import PDFResourceManager
 from langchain.vectorstores import Chroma
