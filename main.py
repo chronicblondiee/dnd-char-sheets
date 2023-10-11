@@ -45,7 +45,7 @@ while True:
     # Prompt
     template = """You are a highly experienced Dungeons & Dragons player.
     Use the following pieces of context to generate Dungeons & Dragons character sheets.
-    Dungeons & Dragons character sheets, allow you choose many different classes you should study them in detail.
+    Dungeons & Dragons allows you choose many different classes you should study them in detail.
     If you don't know the answer, just say that you don't know, don't try to make up an answer.
     
     {context}
